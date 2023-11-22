@@ -1,3 +1,5 @@
 write another text file for testing!
 
 modify something for testing!
+
+Test commit -m and commit -m "" with a name of new file.
