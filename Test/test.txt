@@ -4,3 +4,5 @@ modify something for testing!
 
 Test commit -m and commit -m "" with a name of new file.
 Directly commit all new files without adding.
+
+Test git checkout is able to cancel modify in index/stage or not.
